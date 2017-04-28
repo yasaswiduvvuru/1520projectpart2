@@ -1,0 +1,26 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+  <a href="MainPage.html"><img src="images/Home.png"></img></a>
+  <h1>Obligatory Home Page</h1>
+  <nav>
+    <a href="cag.html" id="cag">cards<span id="and">And</span>Games</a>
+    <a href="phth.html" id="pt">Philosotheology(&quest;&and;(&Alpha;&and;&Omega;))</a>
+    <a href="prof.html" id="prof">Professional</a>
+    <!--<a href="#">Miscellany</a>-->
+  </nav>
+  <p>
+    My name is Yasaswi Duvvuru. This main page serves as a brief introduction to my website as well as a log of updates for
+    the whole site. The categories the site has been divided into are self-explanatory. Further
+    forays into the nature of my involvement with the issues will be detailed on each of the home
+    pagees.
+  </p>
+
+  <h3> Log </h3>
+  <ul>
+    <li>2/25/2017: Started building the HTML for the Home Page.</li>
+    <li>2/27/2017: Started working on the CSS for the Home Page.</li>
+  </ul>
+  <footer>&copy; 2017 Yasaswi Duvvuru</footer>
+</body>

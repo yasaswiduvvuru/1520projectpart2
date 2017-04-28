@@ -1,0 +1,32 @@
+body {
+  font-family: monospace;
+  background-image: url("../images/backtie.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: green;
+  background-size: 25% 100%;
+}
+
+img {
+  height: 5%;
+  width: 5%;
+  display: inline;
+}
+
+nav {
+  text-align: justify;
+  font-size: 2em;
+}
+
+nav:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+nav > a {
+  text-decoration: none;
+  color: black;
+}
+
